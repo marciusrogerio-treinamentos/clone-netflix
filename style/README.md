@@ -1,3 +1,0 @@
-# Clone Nextflix
-
-## Em construção
